@@ -8,7 +8,7 @@
 
 ```bash
 
-git clone <URL\_DU\_REPO>
+git clone https://github.com/ZaidaneAfaf/tp-docker-complet.git
 
 cd tp-docker-complet
 
